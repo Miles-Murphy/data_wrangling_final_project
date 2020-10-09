@@ -3,3 +3,5 @@ twitter_api.ipynb
 **/*.ipynb_checkpoints*
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+wrangle_report.docx
+act_report.docx
